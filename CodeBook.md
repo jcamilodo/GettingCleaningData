@@ -3,6 +3,7 @@ Source of the original data:
 Original description:
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+
 The R script (run_analysis.R) performs the following to clean up the data: 
 
 * 1. Merges the training and test sets to create one data set, namely

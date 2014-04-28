@@ -1,7 +1,6 @@
 # Assessments
 # This R script does the following:
 # 1. Merges the training and the test sets to create one data set.
- 
 X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
 X_test <- read.table("UCI HAR Dataset/test/X_test.txt")
 X <- rbind(X_train, X_test)
