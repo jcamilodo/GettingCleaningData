@@ -23,3 +23,5 @@
 * Use data <- read.table("data_averages.txt") to read the latter.
   It is 180x68 because there are 30 subjects and 6 activities,
   thus "for each activity and each subject" means 30*6=180 rows.
+
+  
